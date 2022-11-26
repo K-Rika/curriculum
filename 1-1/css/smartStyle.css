@@ -1,0 +1,37 @@
+@media screen and (max-width :479px) {
+    .header{
+        width: 150px;
+    }
+
+    .green{
+        width: 150px;    
+        float: none;
+        height: 100px;
+    }
+    
+    .pink{
+        width: 150px;
+        float: none;
+        margin-left: 0px;
+        height: 100px;
+    }
+    
+    .yellow{
+        width: 150px;
+        margin-left: 0px;
+    }
+    
+    .blue{
+        width: 150px;       
+        margin-left: 0px;
+    }
+    
+    .red{
+        width: 150px;
+        margin-left: 0px;
+    }
+    
+    .footer{
+        width: 150px;
+    }
+}
