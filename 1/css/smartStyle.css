@@ -1,0 +1,55 @@
+@media screen and (max-width :479px) {
+    .header{
+        width: 200px;
+        height: 200px;
+    }
+
+    .green{
+        width: 200px;    
+        float: none;
+        height: 100px;
+    }
+    
+    .white{
+        width: 60px;
+        height: 160px;
+        display: flex;
+        flex-flow: column;
+        position: relative;
+        top: 20px;
+        left: 70px;
+    }
+
+    /* 2022/11/26 mod */
+    /* .white div{
+        margin-top: 0px;
+        margin-left: 5px;
+    } */
+
+    .red{
+        width: 200px;
+        height: 200px;
+    }
+
+    /* orange1~3 */
+    .red div{
+        width: 130px;
+        height: 35px;
+        position: relative;
+        left: 30px;   
+    }
+
+    .orange1{
+        position: relative;
+        top: 20px;    
+    }
+
+    .orange3{
+        position: relative;
+        bottom: 20px;    
+    }
+
+    .footer{
+        width: 200px;
+    }
+}
