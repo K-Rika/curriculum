@@ -16,7 +16,6 @@
         display: flex;
         flex-flow: column;
         position: relative;
-        top: 20px;
         left: 70px;
     }
 
